@@ -1,0 +1,1 @@
+head -1 anon-pledge-gift-all-2009.csv > anon-pledge-gift-all-2009-2019.csv; tail -n +2 -q anon-pledge-gift-all-20{09..19}.csv >> anon-pledge-gift-all-2009-2019.csv
